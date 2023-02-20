@@ -1,7 +1,7 @@
 import { LANG } from './langType';
 
 const initialState = {
-	lang: '',
+	lang: 'Uzbek',
 };
 
 export const langReducer = (state = initialState, action) => {

@@ -7,7 +7,7 @@ export const StyledAddAthoreWrapper = styled.div`
 
 export const StyledAddAuthorImage = styled.div`
 	width: 50%;
-	padding: 131px 130px;
+	padding: 122px 130px;
 `;
 
 export const StyledInputWrapper = styled.label`

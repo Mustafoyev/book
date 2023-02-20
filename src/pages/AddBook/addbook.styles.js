@@ -7,7 +7,7 @@ export const StyledAddBookWrapper = styled.div`
 
 export const StyledAddBookImage = styled.div`
 	width: 50%;
-	padding: 130px;
+	padding: 122px 130px;
 	background-color: rgba(243, 243, 243, 0.93);
 `;
 
@@ -43,7 +43,7 @@ export const StyledAddBookImageInput = styled.input`
 
 export const StyledAddBookInputes = styled.div`
 	width: 50%;
-	padding: 23px 123px;
+	padding: 24px 123px;
 `;
 
 export const StyledAddBookTitle = styled.h3`
